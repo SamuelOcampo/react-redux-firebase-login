@@ -1,5 +1,30 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+.bg-primary {
+    background-color: #0d47a1;
+    color: #fff; 
+}
+
+.bg-secondary {
+    background-color: #1976d2;
+    color: #fff; 
+}
+
+.bg-primary.light {
+    background-color: #5472d3;
+}
+
+.bg-secondary.light {
+    background-color: #63a4ff;
+}
+
+.bg-primary.dark {
+    background-color: #002171;
+}
+
+.bg-secondary.dark {
+    background-color: #004ba0;
+}
+
+.page-header h1,
+.page-header {
+    margin-top: 0;
 }

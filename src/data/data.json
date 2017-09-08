@@ -1,0 +1,17 @@
+{
+  "roles": {
+    "user": {},
+    "admin": {
+      "YOUR-USER-UID": true
+    },
+    "client": {}
+  },
+  "users": {
+    "YOUR-USER-UID": {
+      "name": "Samuel",
+      "lastName": "Ocampo",
+      "owner": true,
+      "role": "admin"
+    }
+  }
+}
